@@ -15,6 +15,6 @@ st.title("Pelaku Bom Bunuh Diri")
 st.write("motif bom bunuh diri belum diketahuinya oleh polisi setempat, namun menurut keluarga pelaku tersebut sakit hati karena diputusin oleh kekasihnya sendiri") 
 
 st.title("Korban Bullying") 
-st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman kelasnya dia sudah menjadi korban bullying selama 2 Tahun, dia di bully oleh temannya yang berinisial R dan N. Sekarang korban masih trauma dan tidak mau sekolah") 
+st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman kelasnya dia trauma karena di bully dan tidak masuk sekoalah") 
 
 st.image("IMG-20250524-WA0069.jpg", width=200) 
