@@ -16,4 +16,5 @@ st.write("motif bom bunuh diri belum diketahuinya oleh polisi setempat, namun me
 
 st.title("Korban Bullying") 
 st.write("Foto di atas adalah korban bullying di SMAN 00 Monokotobo, menurut teman kelasnya dia sudah menjadi korban bullying selama 2 Tahun, dia di bully oleh temannya yang berinisial R dan N. Sekarang korban masih trauma dan tidak mau sekolah) 
+
 st.image("IMG-20250524-WA0069.jpg", width=200) 
