@@ -19,4 +19,4 @@ st.image("IMG-20250524-WA0069.jpg", width=300)
 st.title("Korban Bullying") 
 st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman kelasnya dia trauma karena di bully dan tidak masuk sekoalah") 
 
-st.image("IMG-20250524-WA0069.jpg", width=300) 
+st.image("IMG-20250519-WA0096.jpg", width=300) 
