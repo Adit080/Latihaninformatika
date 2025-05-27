@@ -14,6 +14,8 @@ st.image("IMG-20250524-WA0118.jpg", width=200)
 st.title("Pelaku Bom Bunuh Diri") 
 st.write("motif bom bunuh diri belum diketahuinya oleh polisi setempat, namun menurut keluarga pelaku tersebut sakit hati karena diputusin oleh kekasihnya sendiri") 
 
+st.image("IMG-20250524-WA0069.jpg", width=300) 
+
 st.title("Korban Bullying") 
 st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman kelasnya dia trauma karena di bully dan tidak masuk sekoalah") 
 
