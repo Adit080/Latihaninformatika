@@ -23,9 +23,9 @@ st.image("IMG-20250519-WA0096.jpg", width=300)
 
 st.title("Pandoy M200") 
 st.header("Harga m200 tiap toko") 
-angka = st.number_input("90:"), value=0, step=1) 
+angka = st.number_input("70:"), value=0, step=1) 
 
 if(angka % 2) == 0:
-  st.write(f"{angka} adalah harga m200 di lodaya") 
+  st.write(f"{200,350,400} adalah harga Centaurus di lodaya") 
 else:
-  st.write(f"{angka} adalah harga m200 di siliwangi") 
+  st.write(f"{300,325,450} adalah harga Centaurus di siliwangi") 
