@@ -21,7 +21,7 @@ st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman k
 
 st.image("IMG-20250519-WA0096.jpg", width=300) 
 
-st.title("Pandoy M200") 
+st.title("Pandoy Centaurus") 
 st.header("Harga m200 tiap toko") 
 angka= st.number_input("70:", value=0, step=1) 
 
