@@ -20,3 +20,12 @@ st.title("Korban Bullying")
 st.write("Foto diatas adalah korban bullying di sman monokotobo, menurut teman kelasnya dia trauma karena di bully dan tidak masuk sekoalah") 
 
 st.image("IMG-20250519-WA0096.jpg", width=300) 
+
+st.title("Pandoy M200") 
+st.header("Harga m200 tiap toko") 
+angka = st.number_input("90:"), value=0, step=1) 
+
+if(angka % 2) == 0:
+  st.write(f"{angka} adalah harga m200 di lodaya") 
+else:
+  st.write(f"{angka} adalah harga m200 di siliwangi") 
